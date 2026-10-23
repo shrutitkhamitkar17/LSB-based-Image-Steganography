@@ -41,7 +41,7 @@ This project implements LSB-based image steganography to encode secret data into
 ├── types.h
 ├── beautiful.bmp
 ├── steged_img.bmp
-├── secret.txt
+├── decode_secret.txt
 └── README.md
 ```
 
