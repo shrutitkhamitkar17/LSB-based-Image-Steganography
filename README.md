@@ -130,7 +130,3 @@ Through this project, I gained practical experience in:
 
 **Shruti Tushar Khamitkar**
 
-
-## 📄 License
-
-This project is intended for educational purposes. Add a specific open-source license if you intend to distribute the code under one.
